@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm jhguzdkarrison413
 
-<!--
-**jhguzdkarrison413/jhguzdkarrison413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 🏏 🛼 🎰 Excited about libraries 🎮 🏏 🛼 🎰
 
-Here are some ideas to get you started:
+## About Me
+🎽 🎣 🎪 🎨 A professional in full stack development 🎽 🎣 🎪 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+📚 🚵 🛼 Working on front-end development 📚 🚵 🛼
+
+### Fun Facts
+🎣 🏄 🛹 A freak in computer vision 🎣 🏄 🛹
+
+---
+🎷 🥊 🏄 🎯 🚴 Thanks for visiting my profile! 🎺 📚 🚴 🎾 🏑
